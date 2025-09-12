@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
 - 📧 [Email](mailto:your.email@example.com)
 - 🌐 [Portfolio](https://your-portfolio-website.com)
 
