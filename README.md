@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![AriHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriHyuk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriHyuk&layout=compact&theme=radical)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriHyuk&theme=radical)
@@ -36,10 +30,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - Contributing to open source projects
 - Learning new programming paradigms
 - Improving code quality and best practices
-
-## 📈 Activity Graph
-
-![AriHyuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AriHyuk&theme=react-dark)
 
 ## 🤝 Let's Connect!
 
