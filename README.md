@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 🤔 I'm looking for help with **complex algorithms and system design**
 - 💬 Ask me about **programming, web development, or anything tech-related**
 - 📫 How to reach me: **[Your email or social media]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **I love solving coding challenges in my free time!**
 
 ## 🛠️ Technologies & Tools
 
