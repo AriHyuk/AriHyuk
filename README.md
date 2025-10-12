@@ -31,10 +31,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio-website.com)
----
 
 ⭐️ From [AriHyuk](https://github.com/AriHyuk)
 
