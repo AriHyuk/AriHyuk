@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 🔭 I'm currently working on **exciting projects** that challenge my skills
 - 🌱 I'm currently learning **new frameworks and technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **complex algorithms and system design**
 - 💬 Ask me about **programming, web development, or anything tech-related**
 
 
