@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 - Contributing to open source projects
 - Learning new programming paradigms
-- Improving code quality and best practices
 
 ## 🤝 Let's Connect!
 
