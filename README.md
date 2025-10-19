@@ -10,10 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 💬 Ask me about **programming, web development, or anything tech-related**
 
 
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriHyuk&theme=radical)
