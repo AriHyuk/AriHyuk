@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ## 🎯 Current Focus
 
 - Contributing to open source projects
-- Learning new programming paradigms
+
 
 ⭐️ From [AriHyuk](https://github.com/AriHyuk)
 
