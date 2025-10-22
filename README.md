@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriHyuk&theme=radical)
 
-## 🎯 Current Focus
-
-- Contributing to open source projects
 
 
 ⭐️ From [AriHyuk](https://github.com/AriHyuk)
