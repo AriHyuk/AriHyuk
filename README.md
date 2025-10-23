@@ -10,12 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 💬 Ask me about **programming, web development, or anything tech-related**
 
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AriHyuk&theme=radical)
-
-
-
 ⭐️ From [AriHyuk](https://github.com/AriHyuk)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
