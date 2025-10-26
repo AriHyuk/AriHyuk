@@ -9,5 +9,3 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 👯 I'm looking to collaborate on **open source projects**
 
 ⭐️ From [AriHyuk](https://github.com/AriHyuk)
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
