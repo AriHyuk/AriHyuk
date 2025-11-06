@@ -1,3 +1,3 @@
-# Hi there, I'm AriHyuk! 
+I'm AriHyuk! 
 
 
